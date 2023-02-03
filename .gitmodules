@@ -1,0 +1,3 @@
+[submodule "git-modules/apps/submodule-test"]
+	path = git-modules/apps/submodule-test
+	url = https://github.com/miloszniec/submodule-test.git
